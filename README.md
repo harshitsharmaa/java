@@ -1,1 +1,1 @@
-# Java-Lab-Codes
+Java training codes
